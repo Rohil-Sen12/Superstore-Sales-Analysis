@@ -50,3 +50,9 @@ Loaded CSV data into DataFrame
 3.Sales vs Profit analysis
 
 4.Customer segment performance
+
+
+🔗 Connect with me on LinkedIn
+👉https://www.linkedin.com/in/rohil-sen-813702392/
+
+#PowerBI#PowerBIDashboard #DataAnalytics #DataVisualization #BusinessIntelligence #SalesDashboard #RetailAnalytics #SuperStoreSales #DataAnalyst #AnalyticsProject #BIReporting #DAX #DataDriven #PortfolioProject #GitHubProject
