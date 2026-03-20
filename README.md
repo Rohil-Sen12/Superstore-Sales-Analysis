@@ -21,9 +21,9 @@ The goal of this project is to extract meaningful business insights from retail 
 
 1. Extract
 
-Imported dataset using Pandas
+1.Imported dataset using Pandas
 
-Loaded CSV data into DataFrame
+2.Loaded CSV data into DataFrame
 
 2. Transform
 
@@ -49,7 +49,7 @@ Loaded CSV data into DataFrame
 
 3.Sales vs Profit analysis
 
-4.Customer segment performance
+4.Customer segment performance.
 
 
 🔗 Connect with me on LinkedIn
