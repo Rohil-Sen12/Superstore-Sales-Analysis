@@ -55,4 +55,7 @@ Loaded CSV data into DataFrame
 🔗 Connect with me on LinkedIn
 👉https://www.linkedin.com/in/rohil-sen-813702392/
 
+👨‍💻 Author
+Rohil Sen
+
 #PowerBI#PowerBIDashboard #DataAnalytics #DataVisualization #BusinessIntelligence #SalesDashboard #RetailAnalytics #SuperStoreSales #DataAnalyst #AnalyticsProject #BIReporting #DAX #DataDriven #PortfolioProject #GitHubProject
