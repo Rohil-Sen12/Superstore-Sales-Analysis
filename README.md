@@ -1,5 +1,7 @@
 🛒 Superstore Sales Analysis
+
 📊 Project Overview
+
 The Superstore Sales Analysis project focuses on performing an end-to-end ETL (Extract, Transform, Load) process on retail data using Python. The objective is to uncover meaningful business insights by analyzing sales, profit, customer segments, and regional performance.
 This project demonstrates how raw data can be transformed into actionable insights through data cleaning, feature engineering, and visualization techniques.
 ________________________________________
